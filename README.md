@@ -8,6 +8,11 @@
 			<title>VK Mini App Boilerplate</title>
 	</head>
 	<body>
+		<style>
+		body{
+			background-color:#000;
+			}
+		</style>
 			<h1>it is work!</h1>
 	</body>
 </html>
