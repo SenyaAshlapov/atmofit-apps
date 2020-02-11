@@ -8,7 +8,7 @@
 			<title>VK Mini App Boilerplate</title>
 	</head>
 	<body>
-			<div id="root"></div>
+			<h1>it is work!</h1>
 	</body>
 </html>
 
